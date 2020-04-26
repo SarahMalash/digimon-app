@@ -73,13 +73,13 @@ function deleteHandler(req,res){
 
 
 
-// function Digimon (){
-//     this.name = name;
-//     this.level =level;
-//     this.image =image;
+function Digimon (){
+    this.name = name;
+    this.level =level;
+    this.image =image;
 
-// }
-
+}
+// i could not tell what the array name was so i can accses it the right way 
 
 
 
